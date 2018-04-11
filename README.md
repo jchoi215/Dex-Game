@@ -7,7 +7,7 @@ Dex is a 2D-platformer game in which player can explore the environment, pick up
 - Clone this repo:
 
 ```sh
-git clone https://github.com/junlee91/CS342_GAME.git
+git clone https://github.com/jchoi215/Dex-Game.git
 ```
 
 - Open the project in [IntelliJ IDEA][intellij] or [Eclipse][eclipse]
